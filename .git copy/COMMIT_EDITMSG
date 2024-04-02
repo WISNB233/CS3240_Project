@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is behind 'origin/main' by 5 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   tutorial-env/Scripts/Activate.ps1
+#	new file:   tutorial-env/Scripts/activate
+#	new file:   tutorial-env/Scripts/activate.bat
+#	new file:   tutorial-env/Scripts/deactivate.bat
+#	new file:   tutorial-env/Scripts/python.exe
+#	new file:   tutorial-env/Scripts/pythonw.exe
+#	new file:   tutorial-env/pyvenv.cfg
+#

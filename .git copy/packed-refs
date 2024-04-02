@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+24e3cb8ca7189506baa20d41719cdf6b0de33c6e refs/remotes/origin/clickable-bathroom-markers
+322f5c65a6936873a57daf4cbeb661aa8b8899d5 refs/remotes/origin/django-setup
+75edfd0e99e731ce3a127469b16e334e57b9ecb3 refs/remotes/origin/google-login
+d7388b556923f2ecd3eb7c85a44544f728c9b397 refs/remotes/origin/google_maps
+b6fc210895c0e69887bb0357ccb00a966c9c1dbf refs/remotes/origin/main
+e208d4328698a2f792f4c9090425ece735ccce46 refs/remotes/origin/show-approved-reviews
+0f6ef2ddced49ef5f1d56ff91e3a63e80465f2c7 refs/remotes/origin/small_fixes
+74a7feedd31f0186119636b5b5630933ca7bbcd1 refs/remotes/origin/sprint-3-show-admin
+029284a662c88d20434c283ace1d744ef06a319a refs/remotes/origin/sprint-3-show-username
+44668385a3a75d2a0560f85fd2836e1d6ae23129 refs/remotes/origin/test-maps_and_auth
+63c8a2778beeb7eca309cb11ab30be531d98d7d9 refs/remotes/origin/ui-modified
+813448aa7dad6276c7c24153cbf1997ce9be3721 refs/remotes/origin/user_submission
